@@ -1,0 +1,7 @@
+Project Title: Text Detection and Extraction from The Buisness Cards
+Group Members: 
+
+1. Zeeshan Tariq - 2021-ag-5752
+2. Muhammad Salman - 2021-ag-5759
+3. Sohail Afzal - 2021-ag-5779
+4. Usman Ali - 2021-ag-5772
